@@ -1,3 +1,9 @@
+How to download the games
+1. Click the green "Code" button
+2. Click "Download .zip"
+3. Done.
+
+
 How to add new games
 
 1. Download the game/games
